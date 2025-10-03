@@ -1,1 +1,9 @@
+site_name: placeholder name
 
+repo_url: https://github.com/szev1111
+site_description: placeholder description
+
+theme:
+  name: custommill
+  highlightjs: true
+  logo: img/logo.png
