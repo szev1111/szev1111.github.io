@@ -4,6 +4,6 @@ repo_url: https://github.com/szev1111
 site_description: placeholder description
 
 theme:
-  name: custommill
+  name: readthedocs
   highlightjs: true
   logo: img/logo.png
